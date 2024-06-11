@@ -1,3 +1,5 @@
+package nrunFIOWithProgress
+
 import (
 	"log"
 	"os"
