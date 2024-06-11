@@ -1,3 +1,5 @@
+package setupRAID
+
 import (
 	"log"
 	"bytes"
