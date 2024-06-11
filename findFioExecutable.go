@@ -1,3 +1,5 @@
+package findFioExecutable
+
 import (
 	"fmt"
 	"os"
