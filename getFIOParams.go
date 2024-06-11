@@ -1,3 +1,5 @@
+package getFIOParams
+
 import (
 	"log"
 	"strings"
