@@ -1,3 +1,5 @@
+package validateRAIDConfig
+
 import (
 	"fmt"
 )
