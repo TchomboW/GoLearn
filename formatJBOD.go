@@ -1,3 +1,5 @@
+package formatJBOD
+
 import (
 	"bytes"
 	"log"
