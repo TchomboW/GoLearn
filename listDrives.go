@@ -1,3 +1,5 @@
+package listDrives
+
 import (
 	"bufio"
 	"fmt"
