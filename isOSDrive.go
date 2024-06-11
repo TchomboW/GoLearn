@@ -1,3 +1,5 @@
+package isOSDrive
+
 import (
 	"log"
 	"os/exec"
