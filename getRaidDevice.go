@@ -1,3 +1,5 @@
+package getRaidDevices
+
 import (
 	"fmt"
 )
