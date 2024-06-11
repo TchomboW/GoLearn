@@ -1,3 +1,5 @@
+package destroyRAID
+
 import (
 	"fmt"
 	"log"
